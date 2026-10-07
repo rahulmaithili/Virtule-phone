@@ -1,0 +1,8 @@
+{
+  "name": "Remix OmniCalc",
+  "description": "Clean dark-mode scientific calculator and multi-category unit converter with calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
